@@ -367,6 +367,17 @@
             <mxPoint x="24" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u0UVBVY5deAEj4dwYzk8-19" edge="1" parent="1" source="NxonsNY0-rOY6wI9Endg-56" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="u0UVBVY5deAEj4dwYzk8-1" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.2927" as="geometry">
+            <mxPoint x="830" y="470" as="sourcePoint" />
+            <mxPoint x="880" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0UVBVY5deAEj4dwYzk8-20" connectable="0" parent="u0UVBVY5deAEj4dwYzk8-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;标准化&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;QAR工程值&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0516" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
