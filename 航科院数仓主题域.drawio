@@ -52,8 +52,8 @@
         <mxCell id="oD_gzsHctBbsM9kWuNYP-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="660" width="310" x="790" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="oD_gzsHctBbsM9kWuNYP-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全监控域事件主题域&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="845" y="50" as="geometry" />
+        <mxCell id="oD_gzsHctBbsM9kWuNYP-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全事件分析主题域&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="850" y="50" as="geometry" />
         </mxCell>
         <mxCell id="oD_gzsHctBbsM9kWuNYP-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="QAR工程值" vertex="1">
           <mxGeometry height="40" width="70" x="900" y="330" as="geometry" />
